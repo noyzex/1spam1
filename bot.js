@@ -1,7 +1,7 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
-const myid = [''];// ايدي حسابك
+const myid = ['NjIzODMwMDA1OTM5NDM3NTY4.XYIKtg.FAM4ZnarBfsdDLzS04DGZ_xQOZc'];// ايدي حسابك
 const prefix = ['#'];
  
 client.on('ready', () => {
@@ -133,7 +133,7 @@ RAW Paste Data
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
-const myid = [''];// ايدي حسابك
+const myid = ['NjIzODMwMDA1OTM5NDM3NTY4.XYIKtg.FAM4ZnarBfsdDLzS04DGZ_xQOZc'];// ايدي حسابك
 const prefix = ['#'];
 
 client.on('ready', () => {
